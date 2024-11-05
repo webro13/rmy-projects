@@ -1,7 +1,19 @@
 *{
     text-align: center;
+    background-color: aliceblue;
 }
 
 img{
-    outline: auto;
+   border: 1px solid black;
+   border: 100%;
 }
+
+#rw{
+    font-family: "Black Ops One", system-ui;
+    color: black;
+}
+
+#am{
+    color: black;
+}
+
