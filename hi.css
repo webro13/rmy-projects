@@ -21,3 +21,22 @@ img{
     font-size: 1.5rem !important;
     color: black !important;
 }
+
+#rmw{
+    width: 600px;
+    outline: auto;
+    outline-color: red;
+    margin-left: 340px;
+    margin-bottom: 100px;
+}
+
+#mr{
+   width: 850px;
+   outline: auto;
+   outline-color: red;
+   margin-left: 220px; 
+}
+
+.we{
+    font-family: sans-serif;
+}

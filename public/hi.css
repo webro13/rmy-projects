@@ -1,9 +1,14 @@
 *{
     text-align: center;
     background-color: aliceblue;
+    font-family: sans-serif;
 }
 
 #helloa{
     font-size: 1.5rem;
+    color: black;
+}
+
+#hello{
     color: black;
 }
