@@ -22,21 +22,6 @@ img{
     color: black !important;
 }
 
-#rmw{
-    width: 600px;
-    outline: auto;
-    outline-color: red;
-    margin-left: 440px;
-    margin-bottom: 100px;
-}
-
-#mr{
-   width: 850px;
-   outline: auto;
-   outline-color: red;
-   margin-left: 320px; 
-}
-
 .we{
     font-family: sans-serif;
 }
