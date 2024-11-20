@@ -1,6 +1,10 @@
 *{
-    text-align: center;
     background-color: aliceblue;
+}
+
+#go{
+    display: flex;
+    gap: 10px;
 }
 
 img{
@@ -8,20 +12,21 @@ img{
    border: 100%;
 }
 
-#rw{
-    font-family: "Black Ops One", system-ui;
-    color: black;
-}
-
 #am{
     color: black;
 }
 
 #helloa{
-    font-size: 1.5rem !important;
-    color: black !important;
+    font-size: 1.5rem;
+    color: black;
 }
 
 .we{
     font-family: sans-serif;
+}
+
+#mry{
+    outline: auto;
+    outline-color: red;
+    padding: 5px;
 }
